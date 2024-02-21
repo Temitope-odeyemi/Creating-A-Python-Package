@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: portfoliopackage
+Version: 0.1
+Summary: EDSA example python package
+Home-page: https://github.com/Temitope-odeyemi?tab=repositories
+Author: Temitope Odeyemi
+Author-email: odeyemitemi23@gmail.com
+License: MIT
+
+
+# portfoliopackage
+
+This libary was created to return the first n item in an array, in descending order

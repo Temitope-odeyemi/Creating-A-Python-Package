@@ -1,0 +1,8 @@
+setup.py
+mypackage/__init__.py
+mypackage/mymodule.py
+portfoliopackage.egg-info/PKG-INFO
+portfoliopackage.egg-info/SOURCES.txt
+portfoliopackage.egg-info/dependency_links.txt
+portfoliopackage.egg-info/requires.txt
+portfoliopackage.egg-info/top_level.txt
